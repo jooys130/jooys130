@@ -1,7 +1,7 @@
 ### About me
 - 👋 I’m Yeonsoo Joo.
 - 🏫 I'm majoring in Computer Science at Hanyang University, ERICA Campus.
-- 🌱 I’m currently learning about **Back-End**.
+- 🌱 I’m currently learning about **Back-End** and **Data**.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooys%2Fhit-counter&count_bg=%2398CA9E&title_bg=%2336653C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wndustn130@gmail.com)](mailto:wndustn130@gmail.com) 
@@ -45,13 +45,14 @@
 </div>
 
 ---
-<!--
+
 ### 💻 Experience
 - 2021.06 ~ 2021.08 로드텍 PMS팀 인턴
 - 2022.06 ~ 2022.12 BD 솔루션 개발팀 인턴
+- 2022.09 ~ 2023.02 University MakeUs Challenge(UMC) 3기 수료
 
 ---
--->
+
 ### 📈 Stats
 
 
