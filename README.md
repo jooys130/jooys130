@@ -1,6 +1,6 @@
 ### About me
 - 👋 I’m Yeonsoo Joo.
-- 🏫 I'm majoring in Computer Science at Hanyang University, ERICA Campus.
+- 🏫 I'm majored in Computer Science at Hanyang University, ERICA Campus.
 - 🌱 I’m currently learning about **Back-End** and **Data**.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wndustn130@gmail.com)](mailto:wndustn130@gmail.com) 
