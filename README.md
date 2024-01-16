@@ -1,10 +1,8 @@
 ### About me
 - 👋 I’m Yeonsoo Joo.
-- 🏫 I'm majored in Computer Science at Hanyang University, ERICA Campus.
 - 🌱 I’m currently learning about **Back-End** and **Data**.
+- 📫 How to reach me: wndustn130@gmail.com
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wndustn130@gmail.com)](mailto:wndustn130@gmail.com) 
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:jooys130@naver.com)](mailto:jooys130@naver.com)
 
 <!-- #### 👀 I’m interested in ...
 #### 🌱 I’m currently learning ...
@@ -18,7 +16,6 @@
 <div>
  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
@@ -34,6 +31,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </div>
 
  
@@ -51,6 +49,7 @@
 - 2022.06 ~ 2022.12 BD 솔루션 개발팀 인턴
 - 2022.09 ~ 2023.02 University MakeUs Challenge(UMC) 3기 수료
 
+<!---
 ---
 
 ### 📈 Stats
@@ -58,6 +57,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jooys130&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jooys130">
 </div>
+
+--->
 
 <!---
 jooys130/jooys130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
