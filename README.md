@@ -1,5 +1,4 @@
 ### About me
-- 👋 I’m Yeonsoo Joo.
 - 🌱 I’m currently learning about **Back-End** and **Data**.
 - 📫 How to reach me: wndustn130@gmail.com
 
